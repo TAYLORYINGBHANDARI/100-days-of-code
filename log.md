@@ -28,3 +28,12 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+### Day 98: Jan28,2022 Friday
+
+**Today's Progress**: Analyse and Visualise the Space Race -Build Professional Portfolio Project (Working in progress)
+
+**Thoughts** I gained so much confident in data clearnig and preprocessing. Had some struggle with choroploth map today but found out the problem and feeling goal accomplished today. Keep up the work!
+
+**Link(s) to work**
+1. [Find the Longest Word in a String](https://github.com/TAYLORYINGBHANDARI/100-days-of-code/blob/master/Projects/Day98:Project%20Mars%20space%20Visualization%20Project/Space%2BMissions%2B%2528start%2529/Space_Missions_Analysis_(start).ipynb)
